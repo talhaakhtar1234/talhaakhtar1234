@@ -11,10 +11,11 @@ Hello there! 👋 Welcome to my GitHub repository. I'm thrilled to have you here
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I+am++into++Frontend+Development;I+love+working+with+Angular;I+create+user-friendly+web+interfaces;I+aim+for+great+user+experiences!!&center=true&width=380&height=45">
-</a>
-
+		<img src="https://readme-typing-svg.herokuapp.com?color=%60BD561D&duration=2000&lines=🚀+I'm+Into+Frontend+Development;❤️+I+Love+Working+With+Angular;🎨+I+Create+User-Friendly+Web+Interfaces;🌟+I+Aim+For+Great+User+Experiences!!&center=true&width=380&height=70" alt="Typing Animation">
+	</a>
 </p>
+
+
 
 ## 🧑‍💻 Who Am I?
 <img align="right" alt="Coding" width="400" height="250" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
