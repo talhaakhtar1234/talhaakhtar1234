@@ -1,4 +1,4 @@
-                                                    # 👋 Hi I'm TALHA AKHTAR 
+# 👋 Hi I'm TALHA AKHTAR 
 ## 🧑‍💻A Passionate Frontend Developer
 
 Hello there! 👋 Welcome to my GitHub repository. I'm thrilled to have you here. Allow me to introduce myself and share a bit about my journey as a Front-End Developer with a special focus on Angular.
