@@ -10,7 +10,7 @@
 Hello there! 👋 Welcome to my GitHub repository. I'm thrilled to have you here. Allow me to introduce myself and share a bit about my journey as a Front-End Developer with a special focus on Angular.
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=CRAFT+AN+AMAZING+FRONTEND;BRING+DESIGNS+TO+LIFE;CREATE+INTUITIVE+USER+EXPERIENCES;CODE+WITH+PASSION+AND+CREATIVITY;TURN+IDEAS+INTO+DIGITAL+REALITY;MAKE+YOUR+ANGULAR+VISIONS+COME+TRUE&font=Fira%20Code&center=true&duration=2000&pause=500" alt="Example Usage - README Typing SVG"></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=CRAFT+AN+AMAZING+FRONTEND;BRING+DESIGNS+TO+LIFE;CREATE+INTUITIVE+USER+EXPERIENCES;CODE+WITH+PASSION+AND+CREATIVITY;TURN+IDEAS+INTO+DIGITAL+REALITY;MAKE+ANGULAR+VISIONS+COME+TRUE&font=Fira%20Code&center=true&duration=2000&pause=500" alt="Example Usage - README Typing SVG"></h1>
 
 
 
