@@ -9,11 +9,11 @@
 
 Hello there! 👋 Welcome to my GitHub repository. I'm thrilled to have you here. Allow me to introduce myself and share a bit about my journey as a Front-End Developer with a special focus on Angular.
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com?color=%60BD561D&duration=2000&lines=🚀+I'm+Into+Frontend+Development;❤️+I+Love+Working+With+Angular;🎨+I+Create+User-Friendly+Web+Interfaces;🌟+I+Aim+For+Great+User+Experiences!!&center=true&width=380&height=70" alt="Typing Animation">
-	</a>
-</p>
+
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=CRAFT+AN+AMAZING+FRONTEND;BRING+DESIGNS+TO+LIFE;CREATE+INTUITIVE+USER+EXPERIENCES;CODE+WITH+PASSION+AND+CREATIVITY;TURN+IDEAS+INTO+DIGITAL+REALITY;MAKE+YOUR+ANGULAR+VISIONS+COME+TRUE&font=Fira%20Code&center=true&duration=2000&pause=500" alt="Example Usage - README Typing SVG"></h1>
+
+
+
 
 
 
@@ -37,6 +37,8 @@ Hello there! 👋 Welcome to my GitHub repository. I'm thrilled to have you here
 
 <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
+
+
 
 ## 🚀 Expertise in Angular
 - **Angular Enthusiast:** Building with Angular for 1.5+ years 🅰️
