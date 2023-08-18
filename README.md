@@ -1,7 +1,20 @@
-# 👋 Hi I'm TALHA AKHTAR 
-## 🧑‍💻A Passionate Frontend Developer
+<!-- Greetings -->
+<h1 align="center">
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	Hi, Welcome To Talha's Profile!
+	<img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="30">
+</h1>
+<br/>
+
 
 Hello there! 👋 Welcome to my GitHub repository. I'm thrilled to have you here. Allow me to introduce myself and share a bit about my journey as a Front-End Developer with a special focus on Angular.
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+	<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I+am++into++Frontend+Development;I+love+working+with+Angular;I+create+user-friendly+web+interfaces;I+aim+for+great+user+experiences!!&center=true&width=380&height=45">
+</a>
+
+</p>
 
 ## 🧑‍💻 Who Am I?
 <img align="right" alt="Coding" width="400" height="250" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
@@ -12,6 +25,16 @@ I'm Talha Akhtar, a passionate Front-End Developer with a love for crafting visu
 I thrive on staying up-to-date with the latest trends and technologies in the ever-evolving landscape of web development. 💡
 
 Let's embark on this exciting coding adventure together! Feel free to explore my projects and reach out for discussions, collaborations, or simply
+## 🔥 Streak Stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Talha Akhtar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=talhaakhtar1234&theme=monokai-metallian&hide_border=true"/>
+</a>
+
+<p align="center"> If you can dream it, you can do it🔥 </p>
+</p>
 
 ## 🚀 Expertise in Angular
 - **Angular Enthusiast:** Building with Angular for 1.5+ years 🅰️
@@ -50,30 +73,7 @@ In this GitHub repository, you'll discover a collection of projects, code snippe
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate, learn, and share ideas with fellow developers. Whether you're a seasoned pro or just starting with Angular, feel free to reach out.
-# Project Name (will update soon)
 
-[![GitHub stars](https://img.shields.io/github/stars/talhaakhtar1234/project-name.svg)](https://github.com/talhaakhtar1234/project-name/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/talhaakhtar1234/project-name.svg)](https://github.com/talhaakhtar1234/project-name/network)
-[![GitHub issues](https://img.shields.io/github/issues/talhaakhtar1234/project-name.svg)](https://github.com/talhaakhtar1234/project-name/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/talhaakhtar1234/project-name.svg)](https://github.com/talhaakhtar1234/project-name/commits)
-[![GitHub license](https://img.shields.io/github/license/talhaakhtar1234/project-name.svg)](https://github.com/talhaakhtar1234/project-name/blob/master/LICENSE)
-
-This repository contains my awesome project.
-
-## Project Stats
-
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/talhaakhtar1234/project-name.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/talhaakhtar1234/project-name.svg)
-
-## Commit Activity
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/talhaakhtar1234/project-name.svg)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/talhaakhtar1234/project-name/main.svg)
-
-## Issues
-
-![GitHub issues](https://img.shields.io/github/issues-raw/talhaakhtar1234/project-name.svg)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/talhaakhtar1234/project-name.svg)
 
 
 Feel free to explore my other accounts as well:
