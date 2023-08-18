@@ -5,7 +5,7 @@ Hello there! 👋 Welcome to my GitHub repository. I'm thrilled to have you here
 
 ## 🧑‍💻 Who Am I?
 <img align="right" alt="Coding" width="400" height="250" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
-I'm Talha Akhtar, a passionate Front-End Developer with a love for crafting visually appealing and user-friendly web interfaces. With a strong foundation in web development, I have dedicated my career to creating seamless and engaging user experiences that bridge the gap between design and functionality. ✨
+I'm Talha Akhtar, a passionate Front-End Developer with a love for crafting visually appealing and user-friendly web interfaces.I have dedicated my career to creating seamless and engaging user experiences that bridge the gap between design and functionality. ✨
 
 
 
