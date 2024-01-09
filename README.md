@@ -32,7 +32,7 @@ Hello there! 👋 Welcome to my GitHub repository. I'm thrilled to have you here
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
 	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Talha Akhtar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=talhaakhtar1234&theme=monokai-metallian&hide_border=true"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Talha Akhtar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=talhaakhtargithub&theme=monokai-metallian&hide_border=true"/>
 </a>
 
 <p align="center"> If you can dream it, you can do it🔥 </p>
